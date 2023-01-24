@@ -1,7 +1,10 @@
-Logins Used are :
-    Facebook 
-    Google 
+A React JS Application that provides multiple logins to application.
 
+Provides Logins with : ----> Google Account ----> FaceBook Account
+
+To run the project : Use npm intsall then npm start
+
+  **** Make sure to run it on localhost:3000
 
 # Getting Started with Create React App
 
